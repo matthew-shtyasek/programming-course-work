@@ -1,0 +1,7 @@
+#files
+**/*.pdf
+**/*.txt
+#folders
+.vs/
+**/bin/
+**/obj/
